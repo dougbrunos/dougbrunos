@@ -1,8 +1,8 @@
-Opa, eu sou o Douglas Bruno!
+Hi there!
 
-- Trabalho com Full-Stack
-- Estudando Java
-- Entre em contato no email: contatodougbruno@gmail.com
+- I work with Full Stack
+- Studying Java
+- Contact me: contatodougbruno@gmail.com
 
 <div align="center">
   <a href="https://github.com/dougbrunos">
