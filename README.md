@@ -1,7 +1,7 @@
 Hi there!
 
 - I work with Full Stack
-- Studying Java, MySQL, JavaScript
+- Studying Software Engineering
 - Contact me: contatodougbruno@gmail.com
 
 <div align="center">
