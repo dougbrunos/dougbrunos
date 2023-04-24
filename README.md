@@ -1,8 +1,8 @@
 Hi there!
 
-- I work with Full Stack
+- I work with Front End
 - Studying Software Engineering
-- Contact me: contatodougbruno@gmail.com
+- Contact me: dougbrunos@gmail.com
 
 <div align="center">
   <a href="https://github.com/dougbrunos">
