@@ -1,6 +1,6 @@
 Hi there!
 
-- I work with Front End
+- I work with Full Stack
 - Studying Software Engineering
 - Contact me: dougbrunos@gmail.com
 
