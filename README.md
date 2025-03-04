@@ -1,7 +1,3 @@
-Hi there!
-
-- I work with Full Stack
-- Studying Software Engineering
 - Contact me: dougbrunos@gmail.com
 
 <div align="center">
