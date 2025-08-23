@@ -50,7 +50,9 @@ Meu nome é Douglas Bruno, estou cursando Engenharia de Software no Centro Unive
 |------------|-------------|
 | <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | Sistema operacional da Microsoft amplamente utilizado. |
 | <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | Sistema operacional open-source utilizado para servidores e desenvolvimento. |
-          
+
+
+### Minhas Redes Sociais
 <div>
   <a href="https://www.instagram.com/dougbrunos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dougbrunos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
