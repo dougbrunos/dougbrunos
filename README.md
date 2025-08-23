@@ -1,26 +1,58 @@
-- Contact me: dougbrunos@gmail.com
+Meu nome é Douglas Bruno, estou cursando Engenharia de Software no Centro Universitário Assis Gurgacz (FAG) e trabalho com Desenvolvimento Full Stack.
 
-<div align="center">
-  <a href="https://github.com/dougbrunos">
-  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api?username=dougbrunos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougbrunos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Doug-Java" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Doug-JavaScript" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Doug-Html5" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Doug-Css3" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Doug-MongoDb" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Doug-MySql" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
-##
+
+## Skills
+
+### Ferramentas e Tecnologias
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> | Sistema de controle de versão distribuído. |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> | Plataforma de hospedagem de código baseada em Git. |
+| <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /> | Plataforma DevOps para repositórios Git e CI/CD. ||
+| [![API REST](https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer) | Interfaces de comunicação baseadas no protocolo HTTP para a troca de dados |
+
+
+### Bancos de Dados
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | Sistema de gerenciamento de banco de dados relacional open-source. |
+| <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | Banco de dados relacional avançado e open-source. |
+
+### Linguagens de Programação
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> | Linguagem de programação multiplataforma muito utilizada no desenvolvimento de aplicações empresariais. |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | Linguagem essencial para o desenvolvimento web interativo. |
+| <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" /> | Linguagem para desenvolvimento de websites |
+
+### Desenvolvimento Web
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Linguagem de marcação utilizada para estruturar páginas web. |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | Linguagem de estilos usada para o design e layout de páginas web. |
+| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | Framework CSS para desenvolvimento rápido e responsivo de sites. |
+
+### Frameworks de desenvolvimento
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | Framework para desenvolvimento de aplicações Java, especialmente em back-end. |
+| <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" /> | Framework para desenvolvimento PHP. |
+
+### Sistemas Operacionais
+
+| Skill | Descrição |
+|------------|-------------|
+| <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | Sistema operacional da Microsoft amplamente utilizado. |
+| <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | Sistema operacional open-source utilizado para servidores e desenvolvimento. |
           
 <div>
   <a href="https://www.instagram.com/dougbrunos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dougbrunos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dougbrunos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-          
-![Snake animation](https://github.com/dougbrunos/dougbrunos/blob/output/github-contribution-grid-snake.svg)
