@@ -1,7 +1,3 @@
-Meu nome é Douglas Bruno, estou cursando Engenharia de Software no Centro Universitário Assis Gurgacz (FAG) e trabalho com Desenvolvimento Full Stack.
-
-
-
 ## Skills
 
 ### Ferramentas e Tecnologias
